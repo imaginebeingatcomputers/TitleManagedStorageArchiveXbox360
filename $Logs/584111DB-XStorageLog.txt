@@ -1,0 +1,5 @@
+TitleID: 584111DB
+Version: 0.0.10.2
+
+PathName[0]: //title.584111db/t:584111db/SGRemoteStore.bin - Size: 843 (0x34B) bytes - Created: 11/04/2012 - 17:44:25 - Modified: 11/04/2012 - 17:44:25
+

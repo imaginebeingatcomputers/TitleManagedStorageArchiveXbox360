@@ -1,0 +1,5 @@
+TitleID: 4E4D083D
+Version: 0.0.3.2
+
+PathName[0]: //title.4e4d083d/t:4e4d083d/title.bin - Size: 288 (0x120) bytes - Created: 13/12/2011 - 02:14:51 - Modified: 17/07/2012 - 09:49:32
+

@@ -35,6 +35,7 @@ Normalization is disabled in [.gitattributes](.gitattributes) to prevent modific
 | 465307E4 | DARK SOULS II                         |
 | 5841122F | Darkstalkers Resurrection             |
 | 4B4D07DF | Dead Island                           |
+| 544307D1 | Dead or Alive 4                       |
 | 434D0819 | DiRT 2                                |
 | 434D083D | DiRT 3                                |
 | 58410901 | Duke Nukem 3D                         |
@@ -59,6 +60,7 @@ Normalization is disabled in [.gitattributes](.gitattributes) to prevent modific
 | 58410A3D | Monday Night Combat                   |
 | 575207FD | Mortal Kombat                         |
 | 58410B19 | Ms. Splosion Man                      |
+| 4B5607D4 | Ninja Gaiden 3                        |
 | 453907D2 | P4A                                   |
 | 415407E2 | Persona 4 Arena Ultimax               |
 | 58410A8C | PAC-MAN CE DX+                        |
@@ -76,8 +78,10 @@ Normalization is disabled in [.gitattributes](.gitattributes) to prevent modific
 | 464F07ED | Rugby World Cup 2011                  |
 | 4B4D07F6 | Saints Row IV                         |
 | 5451086D | Saints Row: The Third                 |
+| 584111DB | Skullgirls                            |
 | 464F0803 | Sniper Elite 3                        |
 | 425607E7 | Split/Second: Velocity                |
+| 4E4D083D | Soulcalibur V                         |
 | 58410A5A | Super Meat Boy                        |
 | 434307FC | SUPER STREETFIGHTER IV ARCADE EDITION |
 | 555307D7 | TC's SC Double Agent                  |
@@ -85,6 +89,7 @@ Normalization is disabled in [.gitattributes](.gitattributes) to prevent modific
 | 41560834 | Transformers 2                        |
 | 425607D3 | Turok                                 |
 | 43430821 | U. MARVEL VS. CAPCOM 3                |
+| 5451087D | UFC Undisputed 3                      |
 | 4C5307F3 | WRC 3                                 |
 | 545108B4 | WWE '13                               |
 | FFFE07D1 | Xbox 360 Dashboard                    |

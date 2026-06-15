@@ -1,0 +1,5 @@
+TitleID: 4B5607D4
+Version: 0.0.2.10
+
+PathName[0]: //title.4b5607d4/t:4b5607d4/NG3DeliveryFile.dat - Size: 22 (0x16) bytes - Created: 02/04/2012 - 08:01:24 - Modified: 24/04/2012 - 07:59:42
+

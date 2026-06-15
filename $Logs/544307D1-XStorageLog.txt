@@ -1,0 +1,5 @@
+TitleID: 544307D1
+Version: 0.0.1.7
+
+PathName[0]: //title.544307d1/t:544307d1/anm02.afs - Size: 2951168 (0x2D0800) bytes - Created: 09/03/2006 - 00:46:08 - Modified: 09/03/2006 - 00:46:08
+
